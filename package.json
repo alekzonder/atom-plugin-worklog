@@ -6,9 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "worklog:toggle"
   },
-  "repository": "https://github.com/atom/worklog",
+  "repository": "https://github.com/alekzonder/atom-plugin-worklog",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

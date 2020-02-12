@@ -17,6 +17,10 @@
             {
               "label": "insert date",
               "command": "worklog:insert-date"
+            },
+            {
+              "label": "toggle",
+              "command": "worklog:toggle"
             }
           ]
         }
