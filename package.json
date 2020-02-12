@@ -1,0 +1,18 @@
+{
+  "name": "worklog",
+  "main": "./lib/worklog",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "worklog:toggle"
+  },
+  "repository": "https://github.com/atom/worklog",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle worklog",
+        "command": "worklog:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "worklog",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "worklog:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
