@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle worklog",
-        "command": "worklog:toggle"
+        "label": "insert date",
+        "command": "worklog:insert-date"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "worklog",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "worklog:toggle"
+              "label": "insert date",
+              "command": "worklog:insert-date"
             }
           ]
         }

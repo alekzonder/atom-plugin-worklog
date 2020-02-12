@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "worklog:toggle"
+  "atom-text-editor": {
+    "ctrl-cmd-d": "worklog:insert-date"
   }
 }
